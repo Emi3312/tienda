@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/dos apps/mdc_100_series/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
